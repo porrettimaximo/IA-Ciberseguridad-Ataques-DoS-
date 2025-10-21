@@ -1,5 +1,6 @@
 
 #  Detección de Ataques DoS con IA 
+
 ## Objetivo
 
 [cite\_start]Desarrollo y optimización de un clasificador para detectar ataques de **Denegación de Servicio (DoS)** utilizando el modelo **HistGradientBoostingClassifier (HGB)** de `scikit-learn`[cite: 15, 39].
